@@ -19,3 +19,4 @@ def Armstrong(Num):              # armstrong function
 
 print(Armstrong(Num))            # calling the armstrong function
 
+# editing just for testing
